@@ -1,0 +1,4 @@
+spacy
+nltk
+pyttsx3
+speechrecognition
